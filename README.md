@@ -24,9 +24,8 @@ Most cheap donor bodies will come pre-anodized or even pre-painted, including co
 
 
 ## Get the board
-If you can't make or assemble the board yourself, you can order them here(shared PCBWay project, if you order there I get commission at no cost to you)
-
-https://www.pcbway.com/project/shareproject/Simple_ultra_high_performance_condenser_microphone_circuit_495ce39d.html
+If you can't make or assemble the board yourself... well, uh, good luck, but most assembly houses in China will happily make them for you for not very much money.
+I had a PCBWay affiliate link here, but I wouldn't recommend dealing with them anymore.
 
 ## Schematic
 (also available as pdf or KiCad 7 sources, see files)
